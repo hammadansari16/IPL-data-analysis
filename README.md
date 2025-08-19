@@ -1,7 +1,8 @@
-🏏 IPL Data Analysis
+IPL Data Analysis
+
 This project is a Jupyter Notebook analysis of Indian Premier League (IPL) 2022 data. It explores team and match statistics to uncover insights about performance trends in the league.
 
-🔑 Features
+Features
 
 1.Data cleaning and exploration of IPL dataset
 
